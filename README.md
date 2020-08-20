@@ -20,5 +20,5 @@ http://soultionmanual.blogspot.com/2016/08/chapter-9-exercise-7-introduction-to.
 
 ## (the code for reflection java class)
 參考
-https://abgne.tw/java/class-reflection.html
-https://openhome.cc/Gossip/JavaEssence/NewInstance.html
+1. https://abgne.tw/java/class-reflection.html
+2. https://openhome.cc/Gossip/JavaEssence/NewInstance.html
