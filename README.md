@@ -9,6 +9,7 @@ http://soultionmanual.blogspot.com/2016/08/chapter-9-exercise-7-introduction-to.
 學生參閱Test檔格式(TestAccountDemo.java)完成作業要求
 繳交作業檔案如下：
  > Account(學號).java
+ 
  > Account(學號).class
 
 (3)使用TestAccount.java
