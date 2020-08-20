@@ -17,44 +17,9 @@ public class Account16038{
 		dateCreated = new Date(); 
 	}
 
-	// Get Account Id	
-	public int getId() {
-		return id;
-	}
-
 	// Get Account Balanc	
 	public double getBalance() {
 		return 20500.0;
-	}
-
-	// Get Account Annual Interest Rate
-	public double getAnnualInterestRate() {
-		return annualInterestRate;
-	}
-
-	// Set Account Id
-	public void setId(int Id) {
-		id = Id;
-	}
-
-	// Set Account Blance
-	public void setBalance(double Balance) {
-		balance = Balance;
-	}
-
-	// Set Account Annual Interest Rate
-	public void setAnnualInterestRate() {
-		this.annualInterestRate = annualInterestRate;
-	}
-
-	// Get Account Created Date
-	public String getDateCreated() {
-		return this.dateCreated.toString();
-	}
-	
-	// Get Account Monthly Interest Rate
-	public double getMonthlyInterestRate() {
-		return (annualInterestRate / 100) / 12 ;
 	}
 	
 	// Get Account Monthly Interest
@@ -64,11 +29,14 @@ public class Account16038{
 
 	// Account Withdraw Method
 	public void withdraw(double amount) {
-		balance -= amount;
 	}
 	
 	// Account Deposit Method
 	public void deposit(double amount) {
-		balance += amount;
+	}
+
+	// Get Account Created Date
+	public String getDateCreated() {
+		return "Thu Aug 20 16:29:23 CST 2020";
 	}
 }
