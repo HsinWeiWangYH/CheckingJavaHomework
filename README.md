@@ -14,8 +14,8 @@ http://soultionmanual.blogspot.com/2016/08/chapter-9-exercise-7-introduction-to.
 (3)使用TestAccount.java
 即可逐一批改學生(16038,16039)作業並顯示結果
 ### 說明
-* Demo檔(TestAccountDemo.java) withdraw 代入參數 2500.0、deposit 代入參數 3000.0;
-* 正式檔(TestAccount.java)     withdraw 代入參數 1500.0、deposit 代入參數 6000.0;
+* Demo檔(TestAccountDemo.java) withdraw 代入參數 2500.0、deposit 代入參數 3000.0
+* 正式檔(TestAccount.java)     withdraw 代入參數 1500.0、deposit 代入參數 6000.0
 * 學生16038輸出寫死>錯誤，16039作業寫法則為正確
 
 ### 目的
