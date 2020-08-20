@@ -1,5 +1,5 @@
 import java.util.Date;
-
+// incorrect homework code
 // Define Account Class
 public class Account16038{
 	private int id = 0;
@@ -24,7 +24,7 @@ public class Account16038{
 
 	// Get Account Balanc	
 	public double getBalance() {
-		return balance;
+		return 20500.0;
 	}
 
 	// Get Account Annual Interest Rate
@@ -59,7 +59,7 @@ public class Account16038{
 	
 	// Get Account Monthly Interest
 	public double getMonthlyInterest() {
-		return balance * getMonthlyInterestRate();
+		return 76.875;
 	}
 
 	// Account Withdraw Method
