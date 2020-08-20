@@ -1,8 +1,4 @@
 # CheckingJavaHomework.
-## (the code for reflection java class)
-參考
-https://abgne.tw/java/class-reflection.html
-https://openhome.cc/Gossip/JavaEssence/NewInstance.html
 
 ### 使用情境
 (1)助教需逐一批改學生的作業9.7
@@ -20,3 +16,8 @@ Account(學號).class
 
 ## 目的
 算是圓了大學改助教作業時沒做的事
+
+## (the code for reflection java class)
+參考
+https://abgne.tw/java/class-reflection.html
+https://openhome.cc/Gossip/JavaEssence/NewInstance.html
