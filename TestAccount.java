@@ -28,10 +28,10 @@ public class TestAccount{
 			Object obj = constructor.newInstance(paramObjs);
 
 			Method withdraw = clz.getMethod("withdraw", new Class[]{double.class});
-			withdraw.invoke(obj, new Object[]{2500.0}); 
+			withdraw.invoke(obj, new Object[]{1500.0}); 
 			
 			Method deposit = clz.getMethod("deposit", new Class[]{double.class});
-			deposit.invoke(obj, new Object[]{3000.0}); 
+			deposit.invoke(obj, new Object[]{6000.0}); 
 			
 			Method getBalance = clz.getMethod("getBalance", new Class[]{});
 			System.out.println("Balance: $" + getBalance.invoke(obj, new Object[]{})); 
