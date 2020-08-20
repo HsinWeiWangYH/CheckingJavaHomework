@@ -7,9 +7,9 @@ http://soultionmanual.blogspot.com/2016/08/chapter-9-exercise-7-introduction-to.
 
 (2)
 學生參閱Test檔格式(TestAccountDemo.java)完成作業要求
-繳交作業檔案如下
-Account(學號).java
-Account(學號).class
+繳交作業檔案如下：
+ > Account(學號).java
+ > Account(學號).class
 
 (3)使用TestAccount.java
 即可逐一批改學生(16038,16039)作業並顯示結果
