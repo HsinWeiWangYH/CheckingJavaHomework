@@ -41,7 +41,6 @@ public class TestAccount{
 
 			Method getDateCreated = clz.getMethod("getDateCreated", new Class[]{});
 			System.out.println("Date Created: " + getDateCreated.invoke(obj, new Object[]{}));
-			
         }
 		catch (ClassNotFoundException e) {
             e.printStackTrace();

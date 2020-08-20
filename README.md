@@ -1,24 +1,23 @@
-# CheckingJavaHomework.
+# CheckingJavaHomework
 
-### ä½¿ç”¨æƒ…å¢ƒ
-(1)åŠ©æ•™éœ€é€ä¸€æ‰¹æ”¹å­¸ç”Ÿçš„ä½œæ¥­9.7
+### ¨Ï¥Î±¡¹Ò
+(1)§U±Ğ»İ³v¤@§å§ï¾Ç¥Íªº§@·~9.7
 Chapter 9 Exercise 7, Introduction to Java Programming, Tenth Edition Y. Daniel Liang
 http://soultionmanual.blogspot.com/2016/08/chapter-9-exercise-7-introduction-to.html
 
 (2)
-å­¸ç”Ÿåƒé–±Testæª”æ ¼å¼(TestAccountDemo.java)å®Œæˆä½œæ¥­è¦æ±‚
-ç¹³äº¤ä½œæ¥­æª”æ¡ˆå¦‚ä¸‹ï¼š
- > Account(å­¸è™Ÿ).java
- 
- > Account(å­¸è™Ÿ).class
+¾Ç¥Í°Ñ¾\TestÀÉ®æ¦¡(TestAccountDemo.java)§¹¦¨§@·~­n¨D
+Ãº¥æ§@·~ÀÉ®×¦p¤U¡G
+* Account(¾Ç¸¹).java
+* Account(¾Ç¸¹).class
 
-(3)ä½¿ç”¨TestAccount.java
-å³å¯é€ä¸€æ‰¹æ”¹å­¸ç”Ÿ(16038,16039)ä½œæ¥­ä¸¦é¡¯ç¤ºçµæœ
+(3)¨Ï¥ÎTestAccount.java
+§Y¥i³v¤@§å§ï¾Ç¥Í(16038,16039)§@·~¨ÃÅã¥Üµ²ªG
 
-## ç›®çš„
-ç®—æ˜¯åœ“äº†å¤§å­¸æ”¹åŠ©æ•™ä½œæ¥­æ™‚æ²’åšçš„äº‹
+### ¥Øªº
+ºâ¬O¶ê¤F¤j¾Ç§ï§U±Ğ§@·~®É¨S°µªº¨Æ
 
-## (the code for reflection java class)
-åƒè€ƒ
-1. https://abgne.tw/java/class-reflection.html
-2. https://openhome.cc/Gossip/JavaEssence/NewInstance.html
+### (the code for reflection java class)
+°Ñ¦Ò
+* https://abgne.tw/java/class-reflection.html
+* https://openhome.cc/Gossip/JavaEssence/NewInstance.html

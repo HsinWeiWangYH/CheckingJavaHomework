@@ -1,6 +1,5 @@
 public class TestAccountDemo{
 	public static void main(String[] args){
-
 		// Create account Object
 		Account account = new Account(1122, 20000.0,4.5);
 		account.withdraw(2500.0);

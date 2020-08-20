@@ -71,7 +71,4 @@ public class Account16038{
 	public void deposit(double amount) {
 		balance += amount;
 	}
-
-	
-
 }
