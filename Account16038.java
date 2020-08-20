@@ -5,7 +5,6 @@ public class Account16038{
 	private int id = 0;
 	private double balance = 0;
 	private double annualInterestRate = 0;
-	private java.util.Date dateCreated;
 	
 	// Constructor	
 	Account16038(){
@@ -14,7 +13,6 @@ public class Account16038{
 		id = Id;
 		balance = Balance;
 		this.annualInterestRate = annualInterestRate;
-		dateCreated = new Date(); 
 	}
 
 	// Get Account Balanc	
